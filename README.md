@@ -1,6 +1,10 @@
 
 [![tic](https://github.com/LAAC-LSCP/ChildRecordsR/workflows/tic/badge.svg?branch=master)](https://github.com/LAAC-LSCP/ChildRecordsR/actions)
 
+**NOTE**
+
+This package is not being maintained.
+
 
 # ChildRecordsR
 
